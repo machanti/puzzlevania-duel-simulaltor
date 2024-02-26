@@ -1,1 +1,2 @@
-# puzzlevania-duel-simulaltor
+# puzzlevania-duel-simulator
+Created a puzzle that simulates a duel between three different people, Aaron, Bob, and Charlie. Charlie never misses a shot, Bob has a 50% chance of hitting, and Aaron has a 33% chance of hitting. Each person shoots at the most accurate shooter until only one person is alive. The least accurate goes first, and the most accurate goes last. This program simulates 2 strategies for Aaron, one for everything to proceed normally, with everyone shooting each other until someone else is dead and the other strategy for Aaron to intentionally miss the first shot and continue like the first strategy. This program simulates Strategy 1 and 2 1000 times each, and proves Strategy 2 is always better than Strategy 1 for Aaron. 
